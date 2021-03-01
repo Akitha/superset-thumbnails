@@ -36,6 +36,6 @@ docker exec -it superset-1.0.1-extended superset fab create-admin
 ```bash
 CTRL-C
 docker-compose up
-
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
